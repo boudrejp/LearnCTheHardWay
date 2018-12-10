@@ -10,3 +10,8 @@ To use on a new, blank Debian linux machine:
 `sudo apt-get install git -y`
 
 `git clone https://github.com/boudrejp/LearnCTheHardWay.git`
+
+
+Reference to code lecture repo:
+
+https://github.com/zedshaw/learn-c-the-hard-way-lectures
